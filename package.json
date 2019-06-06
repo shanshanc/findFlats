@@ -1,0 +1,31 @@
+{
+  "name": "5007be574a8a206d3d605f11ff31ef6b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "lib": [
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/5007be574a8a206d3d605f11ff31ef6b.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/5007be574a8a206d3d605f11ff31ef6b"
+  },
+  "homepage": "https://gist.github.com/5007be574a8a206d3d605f11ff31ef6b",
+  "dependencies": {
+    "decompress-response": "^4.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.3.3",
+    "jest": "^24.8.0"
+  }
+}
